@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("I like girly things")
             Text("I like pink!")
             Text("I like green too!!!")
-            Text("Change 1")
+            Text("Change 3")
         }
         .padding()
     }
